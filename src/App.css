@@ -40,10 +40,14 @@ header a {
   font-weight: 600;
   padding: 5px 20px;
 }
+a{
+  color: #161616;
+  text-decoration: none;
+}
 
 header a:hover {
   color: #161616;
-  text-decoration: underline;
+  
 }
 
 .link-button {
